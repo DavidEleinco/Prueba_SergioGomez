@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">PruebaAndroid_SergioGomez</string>
+    <string name="restname">Sabor de Hogar</string>
+    <string name="rest_inf">Más de 20 años ofreciendote los mejores productos con un sabor inigualable</string>
+    <string name="introd">Bienvenido a la Aplicación de nuestro restaurante, para poder continuar por favor
+        ingrese sus datos y luego le da click al boton de Iniciar sesion:</string>
+    <string name="login">Iniciando sesion</string>
+    <string name="blank_field">Por favor ingrese todos los datos pertinentes</string>
+    <string name="exist">El contacto ya existe</string>
+    <string name="dessert">Actualmente no tenemos ningun postre, pero pronto lo tendremos.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
